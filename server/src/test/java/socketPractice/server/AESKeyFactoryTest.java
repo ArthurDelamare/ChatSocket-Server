@@ -2,10 +2,9 @@ package socketPractice.server;
 
 import javax.crypto.spec.SecretKeySpec;
 
-import org.junit.Test;
 
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import socketPractice.server.keyManagement.AESKeyFactory;
 
 public class AESKeyFactoryTest extends TestCase {
 

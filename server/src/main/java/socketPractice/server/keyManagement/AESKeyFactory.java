@@ -1,4 +1,4 @@
-package socketPractice.server;
+package socketPractice.server.keyManagement;
 
 import java.nio.charset.Charset;
 import java.security.NoSuchAlgorithmException;

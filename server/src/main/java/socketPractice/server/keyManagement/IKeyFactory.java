@@ -1,4 +1,4 @@
-package socketPractice.server;
+package socketPractice.server.keyManagement;
 
 import javax.crypto.spec.SecretKeySpec;
 
